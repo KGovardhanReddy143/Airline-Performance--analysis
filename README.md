@@ -74,7 +74,7 @@ It helps to understand passengers, ticket bookings, and flight trends.
 
 
 
-<img src="Dashboard\_Screenshot.png" width="800"/>
+![Dashboard](Dashboard_Screenshot.png)
 
 
 
